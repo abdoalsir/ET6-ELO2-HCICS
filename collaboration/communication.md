@@ -21,10 +21,10 @@ procedures for requesting help when needed.
 
 | Channel | Frequency | Purpose |
 | :--- | :---: | :--- |
-| **GitHub Issues** | Daily | Track technical bugs, proposed feature changes, and development blockers. |
-| **Pull Requests (PRs)** | As needed | Submit completed code features and request code review. |
-| **Slack** | Daily | Quick communication with program peers, mentors, and coaches. |
-| **Email (External Institutions)** | As needed | Formal correspondence with organizations such as the Sudanese Federal Ministry of Health and humanitarian partners. |
+| **GitHub Issues** | Daily | Track technical bugs/proposed feature changes. |
+| **Pull Requests (PRs)** | As needed | completed code features/ code review. |
+| **Slack** | Daily | Quick communication with program peers, ET Team |
+| **Email (External Institutions)** | As needed | Formal Communication |
 
 ---
 
@@ -41,11 +41,12 @@ email channels.
 
 | Day | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Available Hours (GMT)** | 07:00–10:00, 16:00–19:00 | 07:00–10:00, 16:00–19:00 | 07:00–10:00, 16:00–19:00 | 07:00–10:00, 16:00–19:00 | 07:00–10:00, 16:00–19:00 | Partial (3h flexible) | Partial (2h flexible) |
+| **Available Hours (GMT)** | 3Hrs | 3Hrs | 3Hrs | 3Hrs | 3Hrs | 3Hrs | 3Hrs |
 
 - **Total Commitment:** ~20 hours per week.
+- **Available Window:** 7:00-10:00, 16:00 - 19:00 GMT daily.
 - **Unavailable Window:** 10:00–16:00 GMT daily.
-- **Completely Unavailable:** Saturday, Sunday, and Thursday at 6:00 GMT.
+- **Completely Unavailable:** Saturday, Sunday, and Thursday at 18:00 GMT.
 
 ---
 
