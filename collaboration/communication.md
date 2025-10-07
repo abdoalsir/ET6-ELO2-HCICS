@@ -29,6 +29,7 @@ procedures for requesting help when needed.
 ---
 
 ### Note
+
 This communication plan will be shared publicly in the GitHub repository.
 For privacy and security, no personal contact details will be published.
 Official correspondence with institutions will occur only through verified
