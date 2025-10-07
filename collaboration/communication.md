@@ -1,53 +1,64 @@
-<!--
-    this template is for inspiration, feel free to change it however you like!
+# Communication Plan
 
-    Careful! be sure to protect your privacy when filling out this document
-        everything you write here will be public
-        so share only what you are comfortable sharing online
-        you can share the rest in confidence with you group by another channel
--->
-
-# Communication
+This document outlines how I will manage communication, time, and support for
+the **HCICS MVP** project as an individual contributor.
+It defines my work schedule, preferred communication channels, and escalation
+procedures for requesting help when needed.
 
 ---
 
 ## Communication Schedule
 
-| Day    | How | The topic of discussion |
-| :----: | :-: | ----------------------: |
-|        |     |                         |
+| Day | How | Topic of Discussion |
+| :---: | :---: | :---: |
+| Monday | Slack / Email | Weekly goal setting and progress updates |
+| Wednesday | GitHub Issues | Technical challenges and peer feedback |
+| Friday | Slack / Email | End-of-week summary and next-week planning |
+
+---
 
 ## Communication Channels
 
-How often we will get in touch on each channel, and what we will discuss there:
+| Channel | Frequency | Purpose |
+| :--- | :---: | :--- |
+| **GitHub Issues** | Daily | Track technical bugs, proposed feature changes, and development blockers. |
+| **Pull Requests (PRs)** | As needed | Submit completed code features and request code review. |
+| **Slack** | Daily | Quick communication with program peers, mentors, and coaches. |
+| **Email (External Institutions)** | As needed | Formal correspondence with organizations such as the Sudanese Federal Ministry of Health and humanitarian partners. |
 
-- **Issues**:
-- **Pull Requests**:
-- **Slack/Discord**:
-- **Video Calls**:
+---
+
+### Note
+This communication plan will be shared publicly in the GitHub repository.
+For privacy and security, no personal contact details will be published.
+Official correspondence with institutions will occur only through verified
+email channels.
+
+---
 
 ## Availability
 
-### Availability for calling/messaging
+| Day | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Available Hours (GMT)** | 07:00–10:00, 16:00–19:00 | 07:00–10:00, 16:00–19:00 | 07:00–10:00, 16:00–19:00 | 07:00–10:00, 16:00–19:00 | 07:00–10:00, 16:00–19:00 | Partial (3h flexible) | Partial (2h flexible) |
 
-| Day     | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| _name_ |     |     |     |     |     |     |     |
+- **Total Commitment:** ~20 hours per week.
+- **Unavailable Window:** 10:00–16:00 GMT daily.
+- **Completely Unavailable:** Saturday, Sunday, and Thursday at 6:00 GMT.
 
-### How many hours everyone has per day
+---
 
-- name: _5h_
-- name: _6h_
-- name: _5h_
-- name: _4h_
-- name: _3h_
+## Asking for Help (30/60 Rule)
 
-## Asking for Help
+Managing roadblocks efficiently is essential for maintaining project progress.
+The following escalation plan ensures that I use available resources
+effectively:
 
-There's a fine line between confidently learning from your mistakes and
-stubbornly getting nowhere. Here is a general guide for when to ask for help
-based on how long you’ve been stuck on the same problem:
+1. **0 → 30 min:** Attempt to resolve the issue independently through
+documentation, debugging, or research.
+2. **30 → 60 min:** Reach out to **fellow learners or mentors** via Slack for
+quick advice.
+3. **60+ min:** **Tag program coaches** in Slack or open a detailed
+**GitHub Issue** outlining the problem and attempted solutions.
 
-1. _0 → 30 min_: Try on your own
-2. _30 → 60 min_: Ask your group for help
-3. _60+ min_: Tag your coaches in Slack, WhatsApp or GitHub
+---
