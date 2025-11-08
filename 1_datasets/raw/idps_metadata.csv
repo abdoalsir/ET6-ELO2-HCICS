@@ -1,0 +1,14 @@
+Field,Label,Value
+created,Created,2024-04-29T10:18:51.579418
+description,Description,"DTM Sudan estimates that 6,552,118 individuals (1,308,617 households) have been recently internally displaced. IOM DTM also reports that an estimated 2,019,027 mixed cross-border movements have been made into neighbouring countries."
+format,File Format,XLSX
+download_url,Download URL,https://data.humdata.org/dataset/f09ff170-23a7-41b0-9711-940d2c298131/resource/f297e6de-b77f-42f6-8646-85d51d46ac87/download/sudan-monthly-displacement_7_mar_public_v01_hdx.xlsx
+id,Resource ID,f297e6de-b77f-42f6-8646-85d51d46ac87
+last_modified,Updated,2024-04-29T10:18:51.390984
+metadata_modified,Metadata Updated,2024-04-29T10:18:58.309750
+microdata,Microdata,False
+dataset_id,Dataset ID,f09ff170-23a7-41b0-9711-940d2c298131
+resource_type,Resource Type,file.upload
+name,Resource Name,DTM Sudan IDPs Master List Round 7
+mimetype,MIME Type,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+size,Size,4.8M

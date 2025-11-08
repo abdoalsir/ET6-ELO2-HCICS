@@ -1,0 +1,14 @@
+Field,Label,Value
+created,Created,2017-06-19T13:16:46.265733
+description,Description,Sudan administrative level 0-2 gazetteer
+format,File Format,XLSX
+download_url,Download URL,https://data.humdata.org/dataset/a66a4b6c-92de-4507-9546-aa1900474180/resource/d1ac38f5-85f2-4d8d-bc59-3e921505dbcb/download/sdn_adminboundaries_tabulardata.xlsx
+id,Resource ID,d1ac38f5-85f2-4d8d-bc59-3e921505dbcb
+last_modified,Updated,2023-04-04T20:11:50.621637
+metadata_modified,Metadata Updated,2025-02-25T20:37:18.761330
+microdata,Microdata,False
+dataset_id,Dataset ID,a66a4b6c-92de-4507-9546-aa1900474180
+resource_type,Resource Type,file.upload
+name,Resource Name,SDN_AdminBoundaries_TabularData.xlsx
+mimetype,MIME Type,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+size,Size,21.6K

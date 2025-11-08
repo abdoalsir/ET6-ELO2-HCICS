@@ -1,0 +1,15 @@
+{
+    "created": "2019-12-05T17:47:44.162998",
+    "description": "ESRI Shapefile",
+    "format": "SHP",
+    "download_url": "https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/SDN/health_facilities/points/hotosm_sdn_health_facilities_points_shp.zip",
+    "id": "f918a5eb-45f4-4338-b479-4e2c8de0b97e",
+    "last_modified": "2025-11-04T09:21:04.764827",
+    "metadata_modified": "2025-11-04T09:33:18.275964",
+    "microdata": false,
+    "dataset_id": "a3f4eb5a-dad6-4515-891c-a893f0f70c64",
+    "resource_type": "api",
+    "name": "hotosm_sdn_health_facilities_points_shp.zip",
+    "mimetype": null,
+    "size": "56.1K"
+}

@@ -1,0 +1,190 @@
+﻿locality_code,locality_name_en,locality_name_ar,state_code,state_name_en,area_sqkm,size_category
+SD01001,Jebel Awlia,جبل أولياء,SD01,Khartoum,779.6997681,Small
+SD01002,Um Bada,أمبدة,SD01,Khartoum,3465.040527,Medium
+SD01003,Bahri,بحري,SD01,Khartoum,3200.486084,Medium
+SD01004,Sharg An Neel,شرق النيل,SD01,Khartoum,9471.344727,Large
+SD01005,Karrari,كرري,SD01,Khartoum,2916.066406,Medium
+SD01006,Um Durman,أم درمان,SD01,Khartoum,1217.532104,Medium
+SD01007,Khartoum,الخرطوم,SD01,Khartoum,167.2157135,Small
+SD02113,Dar As Salam,دار السلام,SD02,North Darfur,2969.452393,Medium
+SD02114,Al Fasher,الفاشر,SD02,North Darfur,8502.279297,Large
+SD02116,Al Koma,الكومة,SD02,North Darfur,776.2297363,Small
+SD02117,Al Malha,المالحة,SD02,North Darfur,194627.9219,Very Large
+SD02118,As Serief,السريف,SD02,North Darfur,6201.309082,Large
+SD02119,At Tawisha,الطويشة,SD02,North Darfur,10867.47656,Large
+SD02120,Um Baru,أم برو,SD02,North Darfur,16391.7832,Large
+SD02124,Kebkabiya,كبكابية,SD02,North Darfur,4445.773926,Medium
+SD02126,Kelemando,كلمندو,SD02,North Darfur,7224.791016,Large
+SD02128,Kutum,كتم,SD02,North Darfur,14000.59863,Large
+SD02129,Melit,مليط,SD02,North Darfur,16116.45703,Large
+SD02133,Saraf Omra,سرف عمرة,SD02,North Darfur,1482.725342,Medium
+SD02136,Um Kadadah,أم كدادة,SD02,North Darfur,13090.37598,Large
+SD02168,Kernoi,كرنوي,SD02,North Darfur,8614.161133,Large
+SD02169,Al Lait,اللعيت,SD02,North Darfur,2796.141113,Medium
+SD02170,Tawila,طويلة,SD02,North Darfur,3483.012939,Medium
+SD02171,At Tina,الطينة,SD02,North Darfur,5624.436035,Large
+SD03141,Al Radoum,الردوم,SD03,South Darfur,25527.87109,Very Large
+SD03143,Ed Al Fursan,عد الفرسان,SD03,South Darfur,4434.612305,Medium
+SD03144,Kas,كاس,SD03,South Darfur,3494.660889,Medium
+SD03145,Mershing,مرشنج,SD03,South Darfur,1140.255127,Medium
+SD03146,Um Dafoug,أم دافوق,SD03,South Darfur,5185.274414,Large
+SD03147,Sharg Aj Jabal,شرق الجبل,SD03,South Darfur,2899.848389,Medium
+SD03149,Tulus,تلس,SD03,South Darfur,2148.909668,Medium
+SD03150,Al Wihda,الوحدة,SD03,South Darfur,1076.722168,Medium
+SD03151,Nitega,نتيقة,SD03,South Darfur,2939.30249,Medium
+SD03153,Gereida,قريضة,SD03,South Darfur,2408.004639,Medium
+SD03154,Shattaya,شطاية,SD03,South Darfur,1829.512573,Medium
+SD03156,As Sunta,السنطة,SD03,South Darfur,3497.426758,Medium
+SD03157,Kubum,كبم,SD03,South Darfur,3007.755371,Medium
+SD03158,Rehaid Albirdi,رهيد البردي,SD03,South Darfur,7475.959473,Large
+SD03159,Kateila,كتيلا,SD03,South Darfur,2580.520996,Medium
+SD03161,Buram,برام,SD03,South Darfur,3581.675537,Medium
+SD03162,Beliel,بليل,SD03,South Darfur,2383.612305,Medium
+SD03164,Nyala Shimal,نيالا شمال,SD03,South Darfur,3146.498047,Medium
+SD03166,As Salam - SD,السلام - ج د,SD03,South Darfur,5094.058594,Large
+SD03167,Nyala Janoub,نيالا جنوب,SD03,South Darfur,257.7190857,Small
+SD03172,Damso,دمسو,SD03,South Darfur,1714.251343,Medium
+SD04111,Beida,بيضا,SD04,West Darfur,1824.077881,Medium
+SD04115,Ag Geneina,الجنينة,SD04,West Darfur,2743.902588,Medium
+SD04121,Foro Baranga,فور برنقا,SD04,West Darfur,779.9899292,Small
+SD04122,Habila - WD,هبيلة - غ د,SD04,West Darfur,2314.130127,Medium
+SD04123,Jebel Moon,جبل مون,SD04,West Darfur,3909.63501,Medium
+SD04125,Kereneik,كرينك,SD04,West Darfur,5797.459473,Large
+SD04127,Kulbus,كلبس,SD04,West Darfur,2922.106689,Medium
+SD04134,Sirba,سربا,SD04,West Darfur,1965.524292,Medium
+SD05139,Adila,عديلة,SD05,East Darfur,3855.87207,Medium
+SD05140,Abu Jabrah,أبو جابرة,SD05,East Darfur,6060.472168,Large
+SD05142,Ad Du'ayn,الضعين,SD05,East Darfur,857.5574951,Small
+SD05148,Shia'ria,شعيرية,SD05,East Darfur,3733.148193,Medium
+SD05152,Al Firdous,الفردوس,SD05,East Darfur,3028.91626,Medium
+SD05155,Abu Karinka,أبو كارنكا,SD05,East Darfur,2452.526367,Medium
+SD05160,Bahr Al Arab,بحر العرب,SD05,East Darfur,20467.69336,Very Large
+SD05163,Assalaya,عسلاية,SD05,East Darfur,4825.941406,Medium
+SD05165,Yassin,يس,SD05,East Darfur,5493.333496,Large
+SD06110,Azum,أزوم,SD06,Central Darfur,3207.259277,Medium
+SD06112,Bendasi,بندسي,SD06,Central Darfur,5421.369141,Large
+SD06130,Mukjar,مكجر,SD06,Central Darfur,6238.664551,Large
+SD06131,Gharb Jabal Marrah,غرب جبل مرة,SD06,Central Darfur,2362.397949,Medium
+SD06132,Shamal Jabal Marrah,شمال  جبل مرة,SD06,Central Darfur,1095.473877,Medium
+SD06135,Um Dukhun,أم دخن,SD06,Central Darfur,2723.064453,Medium
+SD06137,Wadi Salih,وادي صالح,SD06,Central Darfur,3311.155762,Medium
+SD06138,Zalingi,زالنجى,SD06,Central Darfur,6153.831543,Large
+SD06139,Wasat Jabal Marrah,وسط جبل مرة,SD06,Central Darfur,447.7180176,Small
+SD07088,Abu Jubayhah,أبو جبيهة,SD07,South Kordofan,20973.48438,Very Large
+SD07089,Talawdi,تلودي,SD07,South Kordofan,3642.047119,Medium
+SD07090,Abassiya,العباسية,SD07,South Kordofan,4231.34668,Medium
+SD07091,Um Durein,أم دورين,SD07,South Kordofan,2126.691162,Medium
+SD07093,Ar Rashad,الرشاد,SD07,South Kordofan,1770.461792,Medium
+SD07094,Al Quoz,القوز,SD07,South Kordofan,2617.922119,Medium
+SD07095,Dilling,الدلنج,SD07,South Kordofan,3704.655762,Medium
+SD07096,Heiban,هيبان,SD07,South Kordofan,3402.48877,Medium
+SD07097,Ar Reif Ash Shargi,الريف الشرقي,SD07,South Kordofan,2145.702148,Medium
+SD07098,Kadugli,كادقلي,SD07,South Kordofan,2165.609863,Medium
+SD07099,Al Buram,البرام,SD07,South Kordofan,1754.141724,Medium
+SD07103,Habila - SK,هبيلة - ج ك,SD07,South Kordofan,6095.705078,Large
+SD07104,Abu Kershola,أبو كرشولا,SD07,South Kordofan,3090.163818,Medium
+SD07105,Al Leri,الليري,SD07,South Kordofan,7420.941895,Large
+SD07106,At Tadamon - SK,التضامن - ج ك,SD07,South Kordofan,3443.258057,Medium
+SD07107,Delami,دلامي,SD07,South Kordofan,4094.327393,Medium
+SD07108,Ghadeer,غدير,SD07,South Kordofan,6651.696777,Large
+SD08104,Baw,باو,SD08,Blue Nile,7246.918945,Large
+SD08105,Ed Damazine,الدمازين,SD08,Blue Nile,1893.763428,Medium
+SD08106,Al Kurmuk,الكرمك,SD08,Blue Nile,9727.5625,Large
+SD08107,Ar Rusayris,الروصيرص,SD08,Blue Nile,4023.921631,Medium
+SD08108,At Tadamon - BN,التضامن - ن ق,SD08,Blue Nile,7984.749023,Large
+SD08109,Geisan,قيسان,SD08,Blue Nile,3471.006348,Medium
+SD08110,Wad Al Mahi,ود الماحي,SD08,Blue Nile,3817.262939,Medium
+SD09044,Ad Diwaim,الدويم,SD09,White Nile,5871.230957,Large
+SD09045,Um Rimta,أم رمتة,SD09,White Nile,3168.533447,Medium
+SD09046,Rabak,ربك,SD09,White Nile,1690.116943,Medium
+SD09047,Kosti,كوستي,SD09,White Nile,1571.959839,Medium
+SD09048,Tendalti,تندلتي,SD09,White Nile,4375.82373,Medium
+SD09049,As Salam / Ar Rawat,السلام / الراوات,SD09,White Nile,8701.022461,Large
+SD09050,Al Gitaina,القطينة,SD09,White Nile,5592.410645,Large
+SD09051,Aj Jabalain,الجبلين,SD09,White Nile,3973.674805,Medium
+SD09052,Guli,قلي,SD09,White Nile,3049.011963,Medium
+SD10063,Dordieb,درديب,SD10,Red Sea,12266.77344,Large
+SD10064,Port Sudan,بورتسودان,SD10,Red Sea,564.0219116,Small
+SD10065,Tawkar,طوكر,SD10,Red Sea,11350.86719,Large
+SD10066,Hala'ib,حلايب,SD10,Red Sea,40646.85156,Very Large
+SD10067,Jubayt Elma'aadin,جبيت المعادن,SD10,Red Sea,40407.48438,Very Large
+SD10068,Sawakin,سواكن,SD10,Red Sea,1968.308105,Medium
+SD10069,Al Ganab,القنب,SD10,Red Sea,70407.625,Very Large
+SD10070,Haya,هيا,SD10,Red Sea,22405.70313,Very Large
+SD10071,Sinkat,سنكات,SD10,Red Sea,8037.417969,Large
+SD10072,Agig,عقيق,SD10,Red Sea,7554.039063,Large
+SD11052,Halfa Aj Jadeedah,حلفا الجديدة,SD11,Kassala,1524.938965,Medium
+SD11053,Madeinat Kassala,مدينة كسلا,SD11,Kassala,132.473999,Small
+SD11054,Reifi Gharb Kassala,ريفى غرب كسلا,SD11,Kassala,1959.917358,Medium
+SD11055,Reifi Aroma,ريفى أروما,SD11,Kassala,5950.579102,Large
+SD11056,Reifi Kassla,ريفى كسلا,SD11,Kassala,2818.325439,Medium
+SD11057,Reifi Shamal Ad Delta,ريفى شمال الدلتا,SD11,Kassala,7442.759766,Large
+SD11058,Reifi Hamashkureib,ريفى همش كوريب,SD11,Kassala,3901.339844,Medium
+SD11059,Reifi Telkok,ريفى تلكوك,SD11,Kassala,5634.250977,Large
+SD11060,Reifi Khashm Elgirba,ريفى خشم القربة,SD11,Kassala,12081.30664,Large
+SD11061,Reifi Wad Elhilaiw,ريفى ود الحليو,SD11,Kassala,4869.644531,Medium
+SD11062,Reifi Nahr Atbara,ريفى نهر عطبرة,SD11,Kassala,2382.866211,Medium
+SD12073,Al Butanah,البطانة,SD12,Gedaref,19610.01172,Large
+SD12074,Al Fao,الفاو,SD12,Gedaref,2146.317139,Medium
+SD12075,Al Fashaga,الفشقة,SD12,Gedaref,5193.689453,Large
+SD12076,Al Qureisha,القريشة,SD12,Gedaref,3543.648438,Medium
+SD12077,Basundah,باسندة,SD12,Gedaref,3734.070801,Medium
+SD12078,Al Galabat Al Gharbyah - Kassab,القلابات الغربية - كساب,SD12,Gedaref,4138.532715,Medium
+SD12079,Gala'a Al Nahal,قلع النحل,SD12,Gedaref,3861.084717,Medium
+SD12080,Madeinat Al Gedaref,مدينة القضارف,SD12,Gedaref,118.5922012,Small
+SD12081,Wasat Al Gedaref,وسط القضارف,SD12,Gedaref,9576.756836,Large
+SD12082,Al Mafaza,المفازة,SD12,Gedaref,1380.979614,Medium
+SD12083,Galabat Ash-Shargiah,القلابات الشرقية,SD12,Gedaref,4108.763672,Medium
+SD12084,Ar Rahad,الرهد,SD12,Gedaref,2129.606445,Medium
+SD13023,Um Rawaba,أم روابة,SD13,North Kordofan,11671.30273,Large
+SD13024,Sheikan,شيكان,SD13,North Kordofan,8407.606445,Large
+SD13025,Soudari,سودري,SD13,North Kordofan,81590.84375,Very Large
+SD13026,Bara,بارا,SD13,North Kordofan,11563.58203,Large
+SD13027,Gebrat Al Sheikh,جبرة الشيخ,SD13,North Kordofan,50968.07031,Very Large
+SD13028,Um Dam Haj Ahmed,أم دم حاج أحمد,SD13,North Kordofan,4992.26709,Medium
+SD13029,Gharb Bara,غرب بارا,SD13,North Kordofan,11280.22754,Large
+SD13030,Ar Rahad,الرهد,SD13,North Kordofan,5674.84082,Large
+SD14037,Abu Hujar,أبو حجار,SD14,Sennar,3829.288818,Medium
+SD14038,Sennar,سنار,SD14,Sennar,5532.481445,Large
+SD14039,Ad Dali,الدالي,SD14,Sennar,8096.038086,Large
+SD14040,Ad Dinder,الدندر,SD14,Sennar,14138.32422,Large
+SD14041,As Suki,السوكي,SD14,Sennar,2779.983398,Medium
+SD14042,Sharg Sennar,شرق سنار,SD14,Sennar,3156.27417,Medium
+SD14043,Sinja,سنجة,SD14,Sennar,1724.182617,Medium
+SD15030,Medani Al Kubra,مدني الكبري,SD15,Aj Jazirah,587.145874,Small
+SD15031,Janub Al Jazirah,جنوب الجزيرة,SD15,Aj Jazirah,3251.489014,Medium
+SD15032,Um Algura,أم القري,SD15,Aj Jazirah,3931.016602,Medium
+SD15033,Sharg Al Jazirah,شرق الجزيرة,SD15,Aj Jazirah,6519.232422,Large
+SD15034,Al Hasahisa,الحصاحيصا,SD15,Aj Jazirah,4163.036621,Medium
+SD15035,Al Kamlin,الكاملين,SD15,Aj Jazirah,1825.960815,Medium
+SD15036,Al Manaqil,المناقل,SD15,Aj Jazirah,3740.301758,Medium
+SD15037,Al Qurashi,القرشي,SD15,Aj Jazirah,3136.283203,Medium
+SD16008,Abu Hamad,أبو حمد,SD16,River Nile,31673.44727,Very Large
+SD16009,Al Matama,المتمة,SD16,River Nile,9272.297852,Large
+SD16010,Shendi,شندي,SD16,River Nile,11835.50977,Large
+SD16011,Ad Damar,الدامر,SD16,River Nile,37020.45313,Very Large
+SD16012,Atbara,عطبرة,SD16,River Nile,8617.351563,Large
+SD16013,Barbar,بربر,SD16,River Nile,13448.91016,Large
+SD16014,Al Buhaira,البحيرة,SD16,River Nile,18537.3125,Large
+SD17014,Halfa,حلفا,SD17,Northern,129237.4688,Very Large
+SD17015,Delgo,دلقو,SD17,Northern,56619.92578,Very Large
+SD17016,Al Burgaig,البرقيق,SD17,Northern,1422.04248,Medium
+SD17017,Dongola,دنقلا,SD17,Northern,48382.17188,Very Large
+SD17018,Al Golid,القولد,SD17,Northern,65658.48438,Very Large
+SD17019,Ad Dabbah,الدبة,SD17,Northern,45194.22266,Very Large
+SD17020,Merwoe,مروي,SD17,Northern,17611.88281,Large
+SD18021,Ghubaish,غبيش,SD18,West Kordofan,7246.416016,Large
+SD18022,An Nuhud,النهود,SD18,West Kordofan,12277.27539,Large
+SD18028,Abu Zabad,أبو زبد,SD18,West Kordofan,5211.595215,Large
+SD18029,Wad Bandah,ود بندة,SD18,West Kordofan,11410.05664,Large
+SD18085,Keilak,كيلك,SD18,West Kordofan,8829.272461,Large
+SD18086,As Salam - WK,السلام - غ ك,SD18,West Kordofan,9135.216797,Large
+SD18087,Abyei,أبيي,SD18,West Kordofan,4434.88916,Medium
+SD18092,As Sunut,السنوط,SD18,West Kordofan,6891.76123,Large
+SD18100,Babanusa,بابنوسة,SD18,West Kordofan,2357.284424,Medium
+SD18102,Al Lagowa,لقاوة,SD18,West Kordofan,7388.193848,Large
+SD18103,Al Dibab,الدبب,SD18,West Kordofan,9072.358398,Large
+SD18104,Al Idia,الأضية,SD18,West Kordofan,7328.054199,Large
+SD18105,Al Khiwai,الخوي,SD18,West Kordofan,9173.193359,Large
+SD18106,Al Meiram,الميرم,SD18,West Kordofan,5553.874512,Large
+SD19001,Abyei PCA area,إدارية أبيي,SD19,Abyei PCA,10536.82324,Large
