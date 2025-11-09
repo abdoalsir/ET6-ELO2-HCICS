@@ -189,6 +189,8 @@ Reference download links are documented in:
 
 ---
 
-**Author:** Abdulrahman Sirelkhatim
+**Author:** Abdulrahman Ali
+
 **Program:** MIT Emerging Talent — Capstone Project (ELO2 Track 2)
+
 **Last Updated:** November 7, 2025
