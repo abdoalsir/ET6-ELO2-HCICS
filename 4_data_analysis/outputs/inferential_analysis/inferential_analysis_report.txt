@@ -1,0 +1,71 @@
+======================================================================
+INFERENTIAL ANALYSIS REPORT
+Humanitarian Crisis Intelligence and Communication System (HCICS)
+======================================================================
+
+1. SPATIAL AUTOCORRELATION ANALYSIS
+----------------------------------------------------------------------
+
+Moran's I Statistic: 0.4918
+Expected Value (random): -0.0056
+Z-score: 11.0254
+P-value: 0.0010
+
+FINDING: Significant positive spatial autocorrelation detected.
+INTERPRETATION: High-vulnerability localities cluster geographically.
+IMPLICATION: Targeted regional interventions are appropriate.
+
+
+2. PREDICTIVE MODELING RESULTS
+----------------------------------------------------------------------
+
+Random Forest Accuracy: 0.946
+Logistic Regression Accuracy: 0.946
+
+Top 5 Predictive Features:
+  - idp_burden_score: 0.3841
+  - origin_intensity_score: 0.3476
+  - facility_access_score: 0.2683
+
+FINDING: Machine learning models successfully predict risk categories.
+IMPLICATION: The vulnerability scoring methodology is statistically valid.
+
+
+3. HYPOTHESIS TESTING RESULTS
+----------------------------------------------------------------------
+
+Test 1: Darfur vs. Non-Darfur Comparison (t-test)
+  Darfur mean vulnerability: 31.90
+  Non-Darfur mean vulnerability: 42.33
+  P-value: 0.0000
+  RESULT: Statistically significant difference (p < 0.05)
+Test 2: Multi-Regional ANOVA
+  F-statistic: 18.5666
+  P-value: 0.0000
+  RESULT: Significant differences exist between regions.
+
+Test 3: Chi-Square Test (Risk Distribution)
+  Chi-square statistic: 22.0797
+  P-value: 0.0000
+  RESULT: Risk distribution differs significantly by region.
+
+
+4. KEY FINDINGS SUMMARY
+----------------------------------------------------------------------
+
+VALIDATED FINDINGS:
+• The vulnerability assessment methodology is statistically robust
+• Machine learning models achieve 94.6% prediction accuracy
+• IDP population and facility access are primary vulnerability drivers
+• Crisis zones exhibit significant geographic clustering
+• Darfur region shows statistically distinct crisis patterns
+
+IMPLICATIONS FOR HUMANITARIAN RESPONSE:
+• Data-driven targeting of resources is empirically justified
+• Regional coordination should focus on identified clusters
+• Facility accessibility is a critical intervention point
+• Early warning systems should monitor top predictive features
+
+======================================================================
+END OF REPORT
+======================================================================
