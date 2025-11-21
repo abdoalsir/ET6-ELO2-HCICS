@@ -52,7 +52,7 @@ Traditional emergency-response mechanisms are insufficient for a crisis of this
 mobility and geographic complexity. Integrating geospatial and
 population-mobility data provides an evidence base for anticipating needs,
 optimizing resource distribution, and building adaptive public-health
-resilience. [13][17]
+resilience. [13] [17]
 
 ---
 

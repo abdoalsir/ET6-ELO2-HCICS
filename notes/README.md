@@ -18,3 +18,8 @@ Excluded Jupyter notebooks (`*.ipynb`) from the Ruff formatting check in CI.
 **Reason:**
 Ruff does not natively support `.ipynb` files. Running Ruff on notebooks causes
 formatting checks to fail.
+
+## Note of Data Analysis
+
+Milestone 3 missed the planned Novermber 18th deadline because the documentation
+took longer than expected
