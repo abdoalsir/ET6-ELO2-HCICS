@@ -21,7 +21,7 @@ from io import BytesIO
 
 CONFIG_DIR = Path(__file__).resolve().parent
 REPO_ROOT = CONFIG_DIR.parent
-OUTPUT_PATH = Path("../4_data_analysis/outputs")
+OUTPUT_PATH = REPO_ROOT / "4_data_analysis" / "outputs"
 
 RISK_COLORS = {
     "Critical": "#d32f2f",
