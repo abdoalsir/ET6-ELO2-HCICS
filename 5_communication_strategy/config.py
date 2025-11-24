@@ -19,6 +19,8 @@ import geopandas as gpd
 import base64
 from io import BytesIO
 
+CONFIG_DIR = Path(__file__).resolve().parent
+REPO_ROOT = CONFIG_DIR.parent
 OUTPUT_PATH = Path("../4_data_analysis/outputs")
 
 RISK_COLORS = {
@@ -90,7 +92,7 @@ def load_logo():
                Returns (None, None) on error.
     """
     try:
-        logo_path = Path("assets/logo.png")
+        logo_path = CONFIG_DIR / "assets" / "logo.png"
         if not logo_path.exists():
             print("Logo loading error: assets/logo.png not found.")
             return None, None

@@ -21,6 +21,7 @@ from pathlib import Path
 import folium
 import plotly.graph_objects as go
 from config import RISK_COLORS
+from config import REPO_ROOT
 
 
 def render_kpis(analysis_df):
@@ -999,7 +1000,11 @@ def render_download_center():
         st.markdown("### 📈 Analysis Reports")
 
         report_path = Path(
-            "../4_data_analysis/outputs/inferential_analysis/inferential_analysis_report.txt"
+            REPO_ROOT
+            / "4_data_analysis"
+            / "outputs"
+            / "inferential_analysis"
+            / "inferential_analysis_report.txt"
         )
         if report_path.exists():
             with open(report_path, "rb") as f:
