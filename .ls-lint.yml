@@ -15,4 +15,5 @@ ignore:
   - __pycache__
   - .ls-lint.yml
   - .markdownlint.yml
+  - .devcontainer
   - '**/.streamlit'
