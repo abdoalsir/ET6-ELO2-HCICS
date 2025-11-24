@@ -423,7 +423,7 @@ def render_header():
         </div>
     </div>
     """,
-        height=200,
+        height=230,
     )
 
 
