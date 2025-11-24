@@ -1,0 +1,38 @@
+# Streamlit Configuration
+# ======================
+# Enhanced configuration for HCICS Dashboard
+
+[theme]
+# Primary color scheme
+primaryColor = "#3b82f6"
+backgroundColor = "#f8fafc"
+secondaryBackgroundColor = "#e2e8f0"
+textColor = "#1e293b"
+font = "sans serif"
+
+[server]
+# Server settings
+headless = true
+runOnSave = true
+port = 8501
+enableCORS = false
+enableXsrfProtection = true
+
+fileWatcherType = "auto"
+
+[browser]
+gatherUsageStats = false
+serverAddress = "localhost"
+serverPort = 8501
+
+[runner]
+magicEnabled = true
+fastReruns = true
+
+[client]
+showErrorDetails = true
+toolbarMode = "minimal"
+
+[ui]
+hideTopBar = false
+hideSidebarNav = false
