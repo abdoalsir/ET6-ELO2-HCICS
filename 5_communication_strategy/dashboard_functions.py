@@ -630,8 +630,12 @@ def render_statistical_validation():
     col1, col2 = st.columns([3, 2])
 
     with col1:
-        morans_path = Path(
-            "../4_data_analysis/outputs/inferential_analysis/morans_i_scatter.png"
+        morans_path = (
+            REPO_ROOT
+            / "4_data_analysis"
+            / "outputs"
+            / "inferential_analysis"
+            / "morans_i_scatter.png"
         )
 
         if morans_path.exists():
@@ -664,8 +668,12 @@ def render_statistical_validation():
     col1, col2 = st.columns(2)
 
     with col1:
-        feature_path = Path(
-            "../4_data_analysis/outputs/inferential_analysis/feature_importance.png"
+        feature_path = (
+            REPO_ROOT
+            / "4_data_analysis"
+            / "outputs"
+            / "inferential_analysis"
+            / "feature_importance.png"
         )
 
         if feature_path.exists():
@@ -679,8 +687,12 @@ def render_statistical_validation():
 
     with col2:
         # Confusion Matrices
-        confusion_path = Path(
-            "../4_data_analysis/outputs/inferential_analysis/confusion_matrices.png"
+        confusion_path = (
+            REPO_ROOT
+            / "4_data_analysis"
+            / "outputs"
+            / "inferential_analysis"
+            / "confusion_matrices.png"
         )
 
         if confusion_path.exists():
