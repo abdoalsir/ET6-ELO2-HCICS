@@ -112,7 +112,7 @@ All milestones are expected to be completed and tagged in this repository.
   Translate findings into a clear message and **prepare a communication
   strategy** and artifact(s) (the MVP dashboard).
 
-* **Milestone 5 (TBD):** *Final Presentation*
+* **Milestone 5 (December 7th):** *Final Presentation*
   Prepare a 2.5-minute presentation covering the communication artifact, project
   evolution, learnings, and next steps.
 
