@@ -14,36 +14,38 @@ project, delivered as part of the **MIT Emerging Talent Program – Cohort 6
 
 ## **Presentation Structure**
 
-The presentation is organized into **24 slides** covering:
+The presentation is organized into **26 slides** covering:
 
-### **1. Context & Problem (Slides 1–4)**
+### **1. Context & Problem (Slides 1–5)**
 
 - Sudan's humanitarian crisis
 - Information and coordination gaps
 
-### **2. Methodology (Slides 5–11)**
+### **2. Methodology (Slides 6–13)**
 
 - Data sources
 - 5-phase analysis pipeline
 - Vulnerability scoring model
 
-### **3. Key Findings (Slides 12–15)**
+### **3. Key Findings (Slides 14–17)**
 
 - National accessibility crisis
 - *Darfur Paradox*
 - Machine learning validation
 
-### **4. Technical Implementation (Slides 16–18)**
+### **4. Technical Implementation (Slides 18-19)**
 
 - Dashboard architecture
 - System design
 - Deployment structure
 
-### **5. Impact & Reflection (Slides 19–23)**
+### **5. Impact & Reflection (Slides 19–26)**
 
+- Challenges
 - Limitations
 - Recommendations
 - Skills and learning outcomes
+- Closing Slides
 
 ## **Design Guidelines**
 
