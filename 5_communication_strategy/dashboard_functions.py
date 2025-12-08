@@ -20,8 +20,7 @@ import pandas as pd
 from pathlib import Path
 import folium
 import plotly.graph_objects as go
-from config import RISK_COLORS
-from config import REPO_ROOT
+from config import RISK_COLORS, OUTPUT_PATH, REPO_ROOT
 
 
 def render_kpis(analysis_df):
@@ -675,7 +674,6 @@ def render_statistical_validation():
             / "inferential_analysis"
             / "feature_importance.png"
         )
-
         if feature_path.exists():
             st.image(
                 str(feature_path),
@@ -969,9 +967,7 @@ def render_download_center():
     with col1:
         st.markdown("### 📊 Data Files")
 
-        csv_path = Path(
-            "../4_data_analysis/outputs/locality_vulnerability_analysis.csv"
-        )
+        csv_path = OUTPUT_PATH / "locality_vulnerability_analysis.csv"
         if csv_path.exists():
             with open(csv_path, "rb") as f:
                 st.download_button(
@@ -982,9 +978,7 @@ def render_download_center():
                     help="Main analysis results table",
                 )
 
-        localities_geojson_path = Path(
-            "../4_data_analysis/outputs/localities_vulnerability.geojson"
-        )
+        localities_geojson_path = OUTPUT_PATH / "localities_vulnerability.geojson"
         if localities_geojson_path.exists():
             with open(localities_geojson_path, "rb") as f:
                 st.download_button(
@@ -995,9 +989,7 @@ def render_download_center():
                     help="Locality geometries with vulnerability data",
                 )
 
-        facilities_geojson_path = Path(
-            "../4_data_analysis/outputs/health_facilities.geojson"
-        )
+        facilities_geojson_path = OUTPUT_PATH / "health_facilities.geojson"
         if facilities_geojson_path.exists():
             with open(facilities_geojson_path, "rb") as f:
                 st.download_button(

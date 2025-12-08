@@ -40,7 +40,7 @@ def setup_page():
         page_title="HCICS Dashboard | Sudan IDP Crisis Analysis",
         page_icon="assets/logo.png",
         layout="wide",
-        initial_sidebar_state="collapsed",
+        initial_sidebar_state="expanded",
         menu_items={
             "Get Help": "https://github.com/yourusername/hcics",
             "Report a bug": "https://github.com/yourusername/hcics/issues",
@@ -423,7 +423,7 @@ def render_header():
         </div>
     </div>
     """,
-        height=230,
+        height=200,
     )
 
 
