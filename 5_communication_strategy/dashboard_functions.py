@@ -295,7 +295,7 @@ def render_top_vulnerable_table(analysis_df):
         }
         return color_map.get(val, "")
 
-    styled_df = top_5.style.applymap(
+    styled_df = top_5.style.map(
         color_risk_category, subset=["Risk Category"]
     ).format(
         {
